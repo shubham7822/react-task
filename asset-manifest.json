@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/taskepr/static/css/main.96d85bd7.chunk.css",
+    "main.js": "/taskepr/static/js/main.457a7964.chunk.js",
+    "main.js.map": "/taskepr/static/js/main.457a7964.chunk.js.map",
+    "runtime-main.js": "/taskepr/static/js/runtime-main.86cfd2f0.js",
+    "runtime-main.js.map": "/taskepr/static/js/runtime-main.86cfd2f0.js.map",
+    "static/js/2.9b8ccab4.chunk.js": "/taskepr/static/js/2.9b8ccab4.chunk.js",
+    "static/js/2.9b8ccab4.chunk.js.map": "/taskepr/static/js/2.9b8ccab4.chunk.js.map",
+    "static/js/3.2ec046f5.chunk.js": "/taskepr/static/js/3.2ec046f5.chunk.js",
+    "static/js/3.2ec046f5.chunk.js.map": "/taskepr/static/js/3.2ec046f5.chunk.js.map",
+    "index.html": "/taskepr/index.html",
+    "static/css/main.96d85bd7.chunk.css.map": "/taskepr/static/css/main.96d85bd7.chunk.css.map",
+    "static/js/2.9b8ccab4.chunk.js.LICENSE.txt": "/taskepr/static/js/2.9b8ccab4.chunk.js.LICENSE.txt",
+    "static/media/logo.6ce24c58.svg": "/taskepr/static/media/logo.6ce24c58.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.86cfd2f0.js",
+    "static/js/2.9b8ccab4.chunk.js",
+    "static/css/main.96d85bd7.chunk.css",
+    "static/js/main.457a7964.chunk.js"
+  ]
+}
